@@ -1,0 +1,21 @@
+/* src/components/Effect/AnimateBottomToTop/AnimateBottomToTop.css */
+@keyframes bottomToTop {
+  from {
+    transform: translateY(90px);
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-bottom-to-top {
+  transform: translateY(0);
+  opacity: 0;
+  transition: transform 0;
+}
+
+.animate-bottom-to-top.visible {
+  transform: translateY(90px);
+  animation: bottomToTop 1.3s forwards;
+}

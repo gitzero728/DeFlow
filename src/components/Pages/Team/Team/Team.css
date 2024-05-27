@@ -1,0 +1,5 @@
+/* src/components/Pages/Team/A/A.css */
+.team-card-content-wrap {
+  height: 0;
+  transition: height 0.5s ease;
+}
