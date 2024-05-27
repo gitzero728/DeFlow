@@ -1,0 +1,20 @@
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_848_907)">
+<g filter="url(#filter0_f_848_907)">
+<path d="M16.9995 19.083V18.0436C19.2953 18.0436 21.1572 16.4143 21.1572 14.4056C21.1572 12.3969 19.2953 10.7676 16.9995 10.7676C14.7037 10.7676 12.8418 12.3969 12.8418 14.4056V14.9253M18.2997 23.7602C18.2997 24.4778 17.718 25.0595 17.0005 25.0595C16.2829 25.0595 15.7012 24.4778 15.7012 23.7602C15.7012 23.0426 16.2829 22.4609 17.0005 22.4609C17.718 22.4609 18.2997 23.0426 18.2997 23.7602ZM29.4736 17.0044C29.4736 23.8931 23.8892 29.4775 17.0005 29.4775C10.1118 29.4775 4.52734 23.8931 4.52734 17.0044C4.52734 10.1157 10.1118 4.53125 17.0005 4.53125C23.8892 4.53125 29.4736 10.1157 29.4736 17.0044Z" stroke="#AF2DFF" stroke-width="1.54514" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M17.0005 25.0595C17.718 25.0595 18.2997 24.4778 18.2997 23.7602C18.2997 23.0426 17.718 22.4609 17.0005 22.4609C16.2829 22.4609 15.7012 23.0426 15.7012 23.7602C15.7012 24.4778 16.2829 25.0595 17.0005 25.0595Z" fill="#AF2DFF"/>
+<path d="M16.9995 19.0811V18.0416C19.2953 18.0416 21.1572 16.4123 21.1572 14.4036C21.1572 12.3949 19.2953 10.7656 16.9995 10.7656C14.7037 10.7656 12.8418 12.3949 12.8418 14.4036V14.9233" stroke="#AF2DFF" stroke-width="1.55914" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.0005 29.4775C23.8892 29.4775 29.4736 23.8931 29.4736 17.0044C29.4736 10.1157 23.8892 4.53125 17.0005 4.53125C10.1118 4.53125 4.52734 10.1157 4.52734 17.0044C4.52734 23.8931 10.1118 29.4775 17.0005 29.4775Z" stroke="#AF2DFF" stroke-width="1.55914" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_f_848_907" x="-0.246094" y="-0.242188" width="34.4922" height="34.4922" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_848_907"/>
+</filter>
+<clipPath id="clip0_848_907">
+<rect width="33.2617" height="33.2617" fill="white" transform="translate(0.369141 0.371094)"/>
+</clipPath>
+</defs>
+</svg>

@@ -198,11 +198,11 @@ td, th {
 }
 
 .w-icon-slider-right:before {
-  content: "î˜€";
+  content: "\003E";
 }
 
 .w-icon-slider-left:before {
-  content: "î˜";
+  content: "\003C";
 }
 
 .w-icon-nav-menu:before {
@@ -2962,7 +2962,7 @@ figcaption {
   border: 1px solid var(--violet-color);
   color: #fff;
   background-color: rgba(0, 0, 0, 0);
-  background-image: url("https://assets-global.website-files.com/6579859bf6ab8ef2740024c3/657ab08339027cd54e67370c_at-icon.svg");
+  background-image: url("../images/Home/657ab08339027cd54e67370c_at-icon.svg");
   background-position: 4%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -2988,7 +2988,7 @@ figcaption {
 }
 
 .sign-up-text-field.password {
-  background-image: url("https://assets-global.website-files.com/6579859bf6ab8ef2740024c3/657ab09b67742035b1cd13c2_password-icon.svg");
+  background-image: url("../images/Home/657ab09b67742035b1cd13c2_password-icon.svg");
 }
 
 .sign-up-bottom-text {
@@ -6078,7 +6078,7 @@ figcaption {
   box-shadow: 0 15px 15px rgba(0, 0, 0, .37);
 }
 
-.black-icon-wrap {
+.slack-icon-wrap {
   z-index: 1;
   max-width: 5%;
   min-height: 10%;
@@ -9856,7 +9856,7 @@ figcaption {
     min-width: 8%;
   }
 
-  .black-icon-wrap {
+  .slack-icon-wrap {
     max-width: 9%;
     min-width: 9%;
   }
